@@ -20,7 +20,7 @@ Learn about [DML in Apex](https://developer.salesforce.com/docs/atlas.en-us.apex
 
 ## Examples
 
-### Query Records in Apex and return a list
+#### Query Records in Apex and return a list
 
 ```
 public static List < Property__c > getProperties() {
@@ -34,7 +34,7 @@ public static List < Property__c > getProperties() {
 }
 ```
 
-### Create a Property Record
+#### Create a Property Record
 
 ```
 public static Property__c createProperty(String propertyName) {
@@ -52,7 +52,7 @@ public static Property__c createProperty(String propertyName) {
 }
 ```
 
-### Update a list of Property Records
+#### Update a list of Property Records
 
 ```
 public static List < Property__c > updateProperties() {
@@ -73,7 +73,7 @@ public static List < Property__c > updateProperties() {
 }
 ```
 
-### Delete a list of Property Records
+#### Delete a list of Property Records
 
 ```
 public static void deleteProperties() {
