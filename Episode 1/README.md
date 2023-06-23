@@ -1,5 +1,5 @@
 
-## Salesforce Platform Overview
+## Episode 1: Salesforce Platform Overview
 
 The Salesforce Platform brings together a number of Infrastructure, Network, Application, and Data Services to create a powerful application that you can extend in no time. This is because a lot of the complexities you may be used to are obfuscated from users and developers. In the first episode of HowToDev_, we go through an overview of the Salesforce Platform and how you can create custom objects to extend the data model. 
 
