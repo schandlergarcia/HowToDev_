@@ -18,9 +18,9 @@ DML, or Data Manipulation Language, is a set of statements in Salesforce used to
 
 Learn about [DML in Apex](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_dml_section.htm)
 
-### Examples
+## Examples
 
-#### Query Records in Apex and return a list
+### Query Records in Apex and return a list
 
 ```
 public static List < Property__c > getProperties() {
@@ -34,7 +34,7 @@ public static List < Property__c > getProperties() {
 }
 ```
 
-#### Create a Property Record
+### Create a Property Record
 
 ```
 public static Property__c createProperty(String propertyName) {
@@ -52,7 +52,7 @@ public static Property__c createProperty(String propertyName) {
 }
 ```
 
-#### Update a list of Property Records
+### Update a list of Property Records
 
 ```
 public static List < Property__c > updateProperties() {
@@ -73,7 +73,7 @@ public static List < Property__c > updateProperties() {
 }
 ```
 
-#### Delete a list of Property Records
+### Delete a list of Property Records
 
 ```
 public static void deleteProperties() {
@@ -90,12 +90,12 @@ public static void deleteProperties() {
 View the class in the Directory
 
 
-### Salesforce Postman Collection
+## Salesforce Postman Collection
 The Salesforce API Postman collection is a set of pre-built API requests and configurations designed to be used with the Postman API development tool. It provides a convenient way for developers to interact with and test Salesforce's REST and SOAP APIs, making it easier to authenticate, send requests, and receive responses from the Salesforce platform.
 
 Learn about the [Salesforce API Postman Collection](https://developer.salesforce.com/blogs/2020/03/explore-the-salesforce-apis-with-a-postman-collection)
 
-### Apex Recipes Sample App
+## Apex Recipes Sample App
 Apex Recipes is a library of concise, meaningful examples of code for common use cases utilizing best practices. They reflect enterprise patterns that can be utilized
 for real world solutions and should relevant to developers of all skill levels. The code is intended to reflect clarity while trying to maintain brevity. See the Table of Contents for installation options. We recommend using the [Salesforce CLI](https://developer.salesforce.com/tools/sfdxcli) and a scratch org for your initial deployment.
 
