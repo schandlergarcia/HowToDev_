@@ -31,6 +31,9 @@ You can get the code from HowToDev_ here in this repo!
 Each episode has a directory with an overview and sample from each episode. 
 
 Insert Screenshot!!!!!!!!!!!
-## Authors
 
-- [@schandlergarcia](https://www.github.com/schandlergarcia)
+## Authors
+HowToDev
+- [@schandlergarcia](https://www.github.com/schandlergarcia) - HowToDev_
+- [@albarivas](https://www.github.com/albarivas) - Dreamhouse Repo Owner
+- [@trailheadapps] (https://github.com/trailheadapps/dreamhouse-lwc) - The many contributors to Dreamhouse through the years
