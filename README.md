@@ -1,10 +1,11 @@
 
 # HowToDev: Season 1
-<img align="right" src="https://res.cloudinary.com/btahub/image/upload/v1687746312/vyx7eyjffs5vvajseext.png" width="250" />
+<img align="right" src="https://res.cloudinary.com/btahub/image/upload/v1687746312/vyx7eyjffs5vvajseext.png" width="200" />
 Welcome to HowToDev, a series created to help developers get to know the Salesforce! The goal of this series is to help piece together different aspects of platform and learn how they can extend it with code. Whether you are new to the Salesforce ecosystem but have skills from other technologies or just want to learn a little bit about development, HowToDev is for you.
-## Overview
 
+## Overview
 This is the place where you will find all of the code, definitions, links & documents that are referenced in the series. 
+
 ## Dreamhouse
 We used the Dreamhouse Sample Application as inspiration and the foundation for HowToDev_. DreamHouse is a sample application that demonstrates the unique value proposition of the Salesforce platform for building Employee Productivity and Customer Engagement apps.
 <div>
