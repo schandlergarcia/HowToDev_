@@ -37,4 +37,4 @@ Insert Screenshot!!!!!!!!!!!
 HowToDev
 - [@schandlergarcia](https://www.github.com/schandlergarcia) - HowToDev_
 - [@albarivas](https://www.github.com/albarivas) - Dreamhouse Repo Owner
-- [@trailheadapps] (https://github.com/trailheadapps/dreamhouse-lwc) - The many contributors to Dreamhouse through the years
+- [@trailheadapps](https://github.com/trailheadapps/dreamhouse-lwc) - The many contributors to Dreamhouse through the years
