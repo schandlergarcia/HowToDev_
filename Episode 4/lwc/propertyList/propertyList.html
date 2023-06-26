@@ -1,0 +1,18 @@
+<template>
+    <lightning-card title="properties" icon-name="custom:custom85">
+        <div class="slds-var-p-around_medium">
+            <template if:true={propertyList}>
+                <lightning-layout multiple-rows="true" horizontal-align="spread" vertical-align="center">
+                    <template for:each={propertyList.data} for:item="record">
+                        <lightning-layout-item key={record.Id} padding="around-small" size="4">
+                            <lightning-tile label={record.Name}>
+                                <p><lightning-formatted-number value={record.Price__c} format-style="currency" currency-code="USD"></lightning-formatted-number></p>
+                                <p class="slds-truncate" title="Days on the Market">Days on the Market: {record.Days_On_The_Market__c}</p>
+                            </lightning-tile>
+                        </lightning-layout-item>
+                    </template>
+                </lightning-layout>
+            </template>
+        </div>
+    </lightning-card>
+</template>
