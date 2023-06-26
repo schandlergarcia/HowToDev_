@@ -31,7 +31,7 @@ You can get the code from HowToDev_ here in this repo!
 
 Each episode has a directory with an overview and sample from each episode. 
 
-Insert Screenshot!!!!!!!!!!!
+<img src="https://res.cloudinary.com/btahub/image/upload/v1687812965/gucub2hxgcbdrwneq42r.png"/>
 
 ## Authors
 HowToDev
